@@ -10,7 +10,7 @@
 6. [Best Practices](#6-best-practices)
 7. [Managing Tasks with GitHub Issues](#7-managing-tasks-with-github-issues)
 8. [Recap and Conclusion](#8-recap-and-conclusion)
-
+9. [Advanced Techinques](advanced-techniques)
 
 ## 1. Introduction
 
